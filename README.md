@@ -1,8 +1,8 @@
 # NiBi-Arto-3D-Druck
 
-Parametrische 3D-Modelle erstellt in OpenSCAD. Alle Modelle lassen sich durch
+Parametrische 3D-Modelle für Niesmann Bischoff Arto88 Bj. 2025 erstellt in OpenSCAD. Alle Modelle lassen sich durch
 einfaches Anpassen der Parameter an eigene Maße anpassen und direkt als STL für
-den 3D-Druck exportieren.
+den 3D-Druck exportieren. 
 
 ## Modelle
 
@@ -13,11 +13,11 @@ Halter für verschiedene Glastypen – Maße im Dateinamen:
 - **Whiskey-Glas** (82 mm) – `EinsatzApoSchrank_Whiskey-Glas-82`
 - **Ankerkraut-Gewürzdosen** – `EinsatzApoSchrank_Ankerkraut`
 
-### Kücheneinsatz
-Parametrischer Einsatz für Küchenschubladen – `EinsatzKueche`
+### Einsatz for Stauräume Ablage Küche 
+Parametrischer Einsatz für Stauraum hinter Kaffeemaschine – `EinsatzKueche`
 
-### Sprinter Kugelkopf V2
-Ersatzteil / Adapter für VW Sprinter – `Sprinter KugelkopfV2`
+### Halterung MBUX
+Halterung / Einsatz für MBUX – `Sprinter KugelkopfV2`
 
 ## Verwendung
 
@@ -25,6 +25,4 @@ Ersatzteil / Adapter für VW Sprinter – `Sprinter KugelkopfV2`
 2. Parameter oben in der Datei anpassen
 3. Als STL exportieren und drucken
 
-## Beitragen
 
-Feedback und Verbesserungsvorschläge gerne als Issue oder Pull Request.
